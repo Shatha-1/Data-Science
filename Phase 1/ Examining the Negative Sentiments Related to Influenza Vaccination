@@ -10,4 +10,5 @@ Method / Model:
 Deep learning techniques were applied for sentiment analysis. The authors used BERT-based models to classify tweets by sentiment and employed topic modeling (BERTopic) to identify major themes within negative sentiments.
 
 Key results:
-The results showed a significant increase in negative sentiments toward influenza vaccination after 2020. Most negative opinions were related to distrust in government vaccination policies and the spread of misinformation, particularly influenced by discussions surrounding COVID-19 vaccines.
+The results showed a significant increase in negative sentiments toward influenza vaccination after 2020. Most negative opinions were related to distrust in government vaccination policies and the spread of misinformation, 
+particularly influenced by discussions surrounding COVID-19 vaccines.
