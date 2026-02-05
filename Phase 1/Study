@@ -1,0 +1,33 @@
+Study 1: Examining the Negative Sentiments Related to Influenza VaccinationExamining the Negative Sentiments Related to Influenza Vaccination
+
+Problem addressed:
+This study aimed to investigate the negative public sentiments toward influenza vaccination and understand the reasons behind vaccine hesitancy, especially the role of misinformation and distrust in vaccination policies.
+
+Dataset used:
+The study used unstructured textual data collected from Twitter. A total of 261,613 English tweets related to influenza vaccination were analyzed, covering the period from 2017 to 2022.
+
+Method / Model:
+Deep learning techniques were applied for sentiment analysis. The authors used BERT-based models to classify tweets by sentiment and employed topic modeling (BERTopic) to identify major themes within negative sentiments.
+
+Key results:
+The results showed a significant increase in negative sentiments toward influenza vaccination after 2020. Most negative opinions were related to distrust in government vaccination policies and the spread of misinformation, 
+particularly influenced by discussions surrounding COVID-19 vaccines.
+
+
+
+
+
+Study 2: Examining Public Messaging on Influenza Vaccine over Social Media
+
+Problem addressed:
+This study investigated how organizations communicate about influenza vaccination on social media, aiming to understand the focus and limitations of current public messaging and its potential influence on vaccine uptake.
+
+Dataset used:
+The study analyzed unstructured textual data from Twitter, consisting of 235,261 English tweets posted by organizational accounts between 2017 and 2023. Tweets were collected using the Twitter API and filtered to exclude individual users, duplicates, and non-English posts.
+
+Method / Model:
+An unsupervised deep learning approach was applied. The authors used BERT-based topic modeling (BERTopic) to identify major themes in organizational tweets related to influenza vaccination.
+
+Key results:
+The analysis identified four main topics: (1) vaccination campaigns, (2) safety of influenza vaccination during pregnancy, (3) appropriate age for vaccination, and (4) importance of vaccination during pregnancy. While no major misinformation was detected, the findings showed that public messaging had a limited scope, suggesting missed opportunities to better address capability, opportunity, and motivation factors that could improve vaccination uptake.
+
