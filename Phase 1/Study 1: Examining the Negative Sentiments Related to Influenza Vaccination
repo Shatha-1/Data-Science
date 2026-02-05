@@ -1,1 +1,13 @@
+Study 1: Examining the Negative Sentiments Related to Influenza Vaccination
 
+Problem addressed:
+This study aimed to investigate the negative public sentiments toward influenza vaccination and understand the reasons behind vaccine hesitancy, especially the role of misinformation and distrust in vaccination policies.
+
+Dataset used:
+The study used unstructured textual data collected from Twitter. A total of 261,613 English tweets related to influenza vaccination were analyzed, covering the period from 2017 to 2022.
+
+Method / Model:
+Deep learning techniques were applied for sentiment analysis. The authors used BERT-based models to classify tweets by sentiment and employed topic modeling (BERTopic) to identify major themes within negative sentiments.
+
+Key results:
+The results showed a significant increase in negative sentiments toward influenza vaccination after 2020. Most negative opinions were related to distrust in government vaccination policies and the spread of misinformation, particularly influenced by discussions surrounding COVID-19 vaccines.
