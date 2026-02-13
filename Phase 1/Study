@@ -89,3 +89,15 @@ Key results:
 The results showed that 48% of commenters expressed negative sentiment toward influenza vaccines, and 75% did not support the mandatory vaccination policy. The most common themes included concerns about freedom of choice, vaccine effectiveness, distrust in government and pharmaceutical companies, and vaccine safety.
 
 
+
+1. Common Datasets or Features Used
+
+Across the reviewed studies, most research relied on unstructured textual data collected from online platforms. Studies 1, 2, and 3 primarily used Twitter data to analyze public opinions and sentiments toward vaccines. These studies focused on English-language posts and applied sentiment classification (positive, negative, neutral) and topic modeling to identify major themes. A common feature among these works is the emphasis on understanding vaccine hesitancy and public attitudes using large-scale real-world data. Even in studies that used survey data (Study 4) or online comments (Study 5), the central theme remained examining attitudes, confidence, and hesitancy toward influenza vaccination.
+
+2. Differences in Modelling Approaches
+
+The studies differed significantly in their analytical methods. Studies 1 and 2 applied deep learning techniques such as BERT and BERTopic for sentiment and topic modeling. Study 3 used CorEx topic modeling combined with VADER sentiment analysis. In contrast, Study 4 used statistical regression analysis (OLS) based on structured survey data, rather than social media text. Study 5 relied on qualitative thematic analysis instead of machine learning methods. Therefore, modelling approaches ranged from advanced deep learning models to statistical and qualitative approaches.
+
+3. Strengths and Limitations of Existing Work
+
+A key strength of the social media–based studies is the use of large-scale, real-time public data, allowing researchers to capture widespread opinions and trends. However, these studies are often limited to English-language content and specific geographic contexts, which may reduce generalizability. Survey-based research (Study 4) provides deeper insight into behavioral intentions but lacks the large-scale dynamic nature of social media data. Qualitative analysis (Study 5) offers detailed thematic understanding but is limited by smaller sample sizes. Overall, while existing studies provide valuable insights into vaccine attitudes, limitations remain in integrating large-scale sentiment analysis with behavioral prediction and influenza-specific focus in the post-pandemic context.
