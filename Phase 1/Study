@@ -101,3 +101,11 @@ The studies differed significantly in their analytical methods. Studies 1 and 2 
 3. Strengths and Limitations of Existing Work
 
 A key strength of the social media–based studies is the use of large-scale, real-time public data, allowing researchers to capture widespread opinions and trends. However, these studies are often limited to English-language content and specific geographic contexts, which may reduce generalizability. Survey-based research (Study 4) provides deeper insight into behavioral intentions but lacks the large-scale dynamic nature of social media data. Qualitative analysis (Study 5) offers detailed thematic understanding but is limited by smaller sample sizes. Overall, while existing studies provide valuable insights into vaccine attitudes, limitations remain in integrating large-scale sentiment analysis with behavioral prediction and influenza-specific focus in the post-pandemic context.
+
+
+
+Finally, you should report what is missing, limited, or unclear in
+previous work
+
+Although previous studies provide valuable insights into vaccine-related sentiments, several limitations remain. Many studies focus on COVID-19 vaccines rather than influenza vaccines, which limits understanding of influenza-specific public attitudes in the post-pandemic era. In addition, most studies rely only on English-language data and specific geographic regions, reducing the generalizability of findings.
+Furthermore, while large-scale sentiment analysis is commonly applied, fewer studies integrate sentiment analysis with behavioral prediction or vaccination intention modeling. Some qualitative studies also use relatively small sample sizes, limiting broader conclusions. Therefore, there remains a need for updated, influenza-focused research that combines large-scale social media analysis with deeper behavioral insights.
