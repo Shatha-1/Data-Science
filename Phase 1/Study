@@ -31,3 +31,19 @@ An unsupervised deep learning approach was applied. The authors used BERT-based 
 Key results:
 The analysis identified four main topics: (1) vaccination campaigns, (2) safety of influenza vaccination during pregnancy, (3) appropriate age for vaccination, and (4) importance of vaccination during pregnancy. While no major misinformation was detected, the findings showed that public messaging had a limited scope, suggesting missed opportunities to better address capability, opportunity, and motivation factors that could improve vaccination uptake.
 
+
+Study3: Examining Public Sentiments and Attitudes Toward COVID-19 Vaccination
+
+Problem addressed:
+This study aimed to examine public sentiments and attitudes toward COVID-19 vaccination by analyzing discussions on Twitter. The researchers focused on understanding vaccine hesitancy, opinions about vaccine mandates, and public reactions to vaccination experiences.
+
+Dataset used:
+The study analyzed unstructured textual data collected from Twitter. A total of 2,944,530 English tweets posted by 1,210,225 individuals between January 1, 2021, and April 30, 2021 were included in the final analysis. Tweets made by organizations and news outlets were excluded to focus only on individual users.
+
+Method / Model:
+The researchers used topic modeling (CorEx) to identify major themes and topics within the tweets. They also applied VADER sentiment analysis to measure positive, negative, and neutral sentiments over time. Data preprocessing steps included removing duplicates, stop words, and separating individual accounts from organizational accounts using a machine learning classifier.
+
+Key results:
+The analysis identified 16 topics grouped into six main themes, including vaccination policies, vaccine hesitancy, post-vaccination side effects, vaccine development and distribution, public attitudes, and gratitude toward healthcare workers.
+The most discussed topics were vaccine mandates (mandatory vs optional), vaccine hesitancy, and post-vaccination side effects.
+Overall, positive sentiment was higher than negative sentiment; however, topics such as vaccine hesitancy and conspiracy theories showed consistently negative sentiments.
