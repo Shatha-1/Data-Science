@@ -67,3 +67,25 @@ The researchers developed a measure of health decision-making preferences based 
 
 Key results:
 The results showed that individuals who preferred science-based medicine, trusted healthcare professionals, and favored proactive medical intervention had higher vaccine confidence and lower vaccine hesitancy. Physician recommendation was also identified as a strong predictor of influenza vaccination intention and behavior.
+
+
+
+
+
+
+
+Study 5: Examining Perceptions about Mandatory Influenza Vaccination of Healthcare Workers
+
+Problem addressed:
+This study aimed to examine public perceptions regarding mandatory influenza vaccination policies for healthcare workers, particularly the “vaccinate or wear a mask” policy implemented in British Columbia, Canada. The researchers focused on understanding public attitudes, concerns, and levels of support for mandatory vaccination policies.
+
+Dataset used:
+The study analyzed unstructured textual data collected from online comments posted on Canadian news websites. A total of 1,163 comments written by 648 individuals were analyzed, in response to 36 news articles published between August 2012 and May 2013.
+
+Method / Model:
+The researchers applied thematic qualitative analysis to categorize and identify key themes within the comments. Sentiment toward influenza vaccines and support for mandatory vaccination policies were also classified as positive, negative, neutral, or mixed.
+
+Key results:
+The results showed that 48% of commenters expressed negative sentiment toward influenza vaccines, and 75% did not support the mandatory vaccination policy. The most common themes included concerns about freedom of choice, vaccine effectiveness, distrust in government and pharmaceutical companies, and vaccine safety.
+
+
