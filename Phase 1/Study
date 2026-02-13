@@ -32,6 +32,9 @@ Key results:
 The analysis identified four main topics: (1) vaccination campaigns, (2) safety of influenza vaccination during pregnancy, (3) appropriate age for vaccination, and (4) importance of vaccination during pregnancy. While no major misinformation was detected, the findings showed that public messaging had a limited scope, suggesting missed opportunities to better address capability, opportunity, and motivation factors that could improve vaccination uptake.
 
 
+
+
+
 Study3: Examining Public Sentiments and Attitudes Toward COVID-19 Vaccination
 
 Problem addressed:
@@ -47,3 +50,20 @@ Key results:
 The analysis identified 16 topics grouped into six main themes, including vaccination policies, vaccine hesitancy, post-vaccination side effects, vaccine development and distribution, public attitudes, and gratitude toward healthcare workers.
 The most discussed topics were vaccine mandates (mandatory vs optional), vaccine hesitancy, and post-vaccination side effects.
 Overall, positive sentiment was higher than negative sentiment; however, topics such as vaccine hesitancy and conspiracy theories showed consistently negative sentiments.
+
+
+
+
+Study 4: Health Decision-Making Preferences and Influenza Vaccination
+
+Problem addressed:
+This study aimed to examine how individuals’ health decision-making preferences influence their attitudes toward influenza vaccination, particularly vaccine confidence, vaccine hesitancy, and vaccination behavior.
+
+Dataset used:
+The study used survey data collected from two nationally representative samples of U.S. adults in 2016 and 2018. The total sample included 1005 participants in 2016 and 1020 participants in 2018.
+
+Method / Model:
+The researchers developed a measure of health decision-making preferences based on three dimensions: naturalist vs. technologist, doubter vs. believer, and minimalist vs. maximalist. Ordinary Least Squares (OLS) regression analysis was applied to examine the relationship between these preferences and vaccination attitudes and behavior.
+
+Key results:
+The results showed that individuals who preferred science-based medicine, trusted healthcare professionals, and favored proactive medical intervention had higher vaccine confidence and lower vaccine hesitancy. Physician recommendation was also identified as a strong predictor of influenza vaccination intention and behavior.
