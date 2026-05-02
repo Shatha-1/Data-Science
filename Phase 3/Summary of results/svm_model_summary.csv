@@ -1,2 +1,0 @@
-model,accuracy,features,datasets_used
-Linear SVM,0.7394094993581515,TF-IDF unigrams + bigrams,GNews labeled + YouTube labeled
